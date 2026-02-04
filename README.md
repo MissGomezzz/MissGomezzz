@@ -47,5 +47,7 @@ problem-solving, and version control.
 ## 📫 Contact
 
 - GitHub: [@MissGomezzz](https://github.com/MissGomezzz)
+- Email: [angela.gomez-v@mail.escuelaing.edu.co](mailto:angela.gomez-v@mail.escuelaing.edu.co)
+
 
 Open to collaborate on new projects!
