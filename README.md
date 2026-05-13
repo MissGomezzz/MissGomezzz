@@ -46,7 +46,7 @@ I'm currently focused on building solid foundations in programming, problem-solv
 ## 📫 Contact
 
 - GitHub: [@MissGomezzz](https://github.com/MissGomezzz)
-- Email: [sofiangelgv@gmail.com](mailto:sofiangelagv@gmail.com)
+- Email: [sofiangelagv@gmail.com](mailto:sofiangelagv@gmail.com)
   
 
 Open to collaborate on new projects!
