@@ -3,15 +3,14 @@
 I'm a **Systems Engineering student (6th semester)** with a strong interest in  
 **Python**, **Java**, and **learning problem solving using software and mathematics**.
 
-I'm currently focused on building solid foundations in programming,  
-problem-solving, and version control.
+I'm currently focused on building solid foundations in programming, problem-solving, and building APIs. 
 
 ---
 
 ## 🎓 About me
 
 - 📚 Systems Engineering student
-- 🐍 Learning Python & Java (fundamentals, data structures, modules, environments)
+- 🐍 Learning Python, Java, JavaScript, TypeScript (fundamentals, data structures, modules, environments)
 - 🌍 Fluent in English and Spanish
 - 💻 Using Git & GitHub for version control
 - 🌱 Interested in growing as a developer step by step
@@ -21,8 +20,8 @@ problem-solving, and version control.
 ## 🛠️ Technologies & tools
 
 - **Languages:** Python (learning), Java (learning), SQL
-- **Tools:** Git, GitHub, VS Code, Anaconda, IntelliJ
-- **Currently exploring:** Jupyter Notebooks, clean code practices
+- **Tools:** Git, GitHub, VS Code, IntelliJ, Docker, Postman, SonarQube, React. 
+- **Currently exploring:** Clean code practices, creative projects. 
 
 ---
 
@@ -47,7 +46,7 @@ problem-solving, and version control.
 ## 📫 Contact
 
 - GitHub: [@MissGomezzz](https://github.com/MissGomezzz)
-- Email: [angela.gomez-v@mail.escuelaing.edu.co](mailto:angela.gomez-v@mail.escuelaing.edu.co)
-
+- Email: [sofiangelgv@gmail.com](mailto:sofiangelagv@gmail.com)
+  
 
 Open to collaborate on new projects!
