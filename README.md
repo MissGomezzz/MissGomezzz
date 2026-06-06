@@ -1,7 +1,7 @@
 # Hi, I'm Ángela Gómez 👋
 
 I'm a **Systems Engineering student (6th semester)** with a strong interest in  
-**Python**, **Java**, and **learning problem solving using software and mathematics**.
+**Python**, **Java**, **design and creation of web applications** and **learning problem solving using software and mathematics**.
 
 I'm currently focused on building solid foundations in programming, problem-solving, and building APIs. 
 
@@ -29,7 +29,7 @@ I'm currently focused on building solid foundations in programming, problem-solv
 
 - College projects and small exercises
 - Practice repositories from classes
-- Experiments while learning Python and Java
+- Experiments while learning Java, JavaScript, and mastering Python 
 - Notes and examples as I grow
 
 ---
