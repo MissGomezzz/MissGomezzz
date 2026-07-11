@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ángela Gómez 👋</h1>
+<h1 align="center">Hi, I'm Ángela Gómez :)</h1>
 <h3 align="center">Systems Engineering Student | Building Solid Foundations in Software & Problem Solving</h3>
 
 <p align="center">
@@ -14,12 +14,11 @@
 
 ### 🎓 About Me
 
-- 📚 7th-semester **Systems Engineering** student
-- 🔗 Experience consuming and testing **REST APIs** (Postman, other tooling) and building my own
-- 🧠 Reinforcing **Data Structures & Algorithms** fundamentals
-- 🐧 Working knowledge of **Linux** and **computer networks**
-- 🌍 Fluent in **English** and **Spanish**
-- 🌱 Growing step by step as a developer — clean code, best practices, and consistency
+- 7th-semester **Systems Engineering** student
+- Experience consuming, testing, and building **REST APIs**
+- Working knowledge of **Linux** and **computer networks**
+- Fluent in **English** and **Spanish**
+- Growing step by step as a developer — clean code, best practices, and consistency
 
 ---
 
@@ -40,8 +39,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -58,10 +58,9 @@ Platform to centralize and manage information for my university's football tourn
 
 ### 🎯 Currently
 
-- 🔍 Strengthening problem-solving with **data structures & algorithms**
-- 🌐 Deepening REST API design and best practices
-- 🧩 Exploring clean code principles and real-world dev workflows
-- 💼 Open to **internship opportunities** and collaborative projects
+- Sharpening problem-solving skills through **data structures & algorithms**
+- Exploring clean code principles and real-world dev workflows
+- Open to **internship opportunities** and collaborative projects
 
 ---
 
