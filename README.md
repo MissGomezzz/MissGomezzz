@@ -1,52 +1,70 @@
-# Hi, I'm Ángela Gómez 👋
+<h1 align="center">Hi, I'm Ángela Gómez 👋</h1>
+<h3 align="center">Systems Engineering Student | Building Solid Foundations in Software & Problem Solving</h3>
 
-I'm a **Systems Engineering student (7th semester)** with a strong interest in  
-**Python**, **Java**, **design and creation of web applications** and **learning problem solving using software and mathematics**.
-
-I'm currently focused on building solid foundations in programming, problem-solving, and building APIs. 
-
----
-
-## 🎓 About me
-
-- 📚 Systems Engineering student
-- 🐍 Learning Python, Java, JavaScript, TypeScript (fundamentals, data structures, modules, environments)
-- 🌍 Fluent in English and Spanish
-- 💻 Using Git & GitHub for version control
-- 🌱 Interested in growing as a developer step by step
+<p align="center">
+  <a href="https://github.com/MissGomezzz">
+    <img src="https://img.shields.io/badge/GitHub-MissGomezzz-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:sofiangelagv@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sofiangelagv%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Technologies & tools
+### 🎓 About Me
 
-- **Languages:** Python (learning), Java (learning), SQL
-- **Tools:** Git, GitHub, VS Code, IntelliJ, Docker, Postman, SonarQube, React. 
-- **Currently exploring:** Clean code practices, creative projects. 
-
----
-
-## 📂 What you'll find here
-
-- College projects and small exercises
-- Practice repositories from classes
-- Experiments while learning Java, JavaScript, and mastering Python 
-- Notes and examples as I grow
+- 📚 7th-semester **Systems Engineering** student
+- 🔗 Experience consuming and testing **REST APIs** (Postman, other tooling) and building my own
+- 🧠 Reinforcing **Data Structures & Algorithms** fundamentals
+- 🐧 Working knowledge of **Linux** and **computer networks**
+- 🌍 Fluent in **English** and **Spanish**
+- 🌱 Growing step by step as a developer — clean code, best practices, and consistency
 
 ---
 
-## 🚀 Goals
+### 🛠️ Tech Stack
 
-- Strengthen my programming fundamentals
-- Learn how to build clean and understandable code
-- Become comfortable working with real-world tools
-- Keep learning consistently
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+**Tools & Platforms**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
 
 ---
 
-## 📫 Contact
+### 🚀 Featured Project
 
-- GitHub: [@MissGomezzz](https://github.com/MissGomezzz)
-- Email: [sofiangelagv@gmail.com](mailto:sofiangelagv@gmail.com)
-  
+**[TECHCUP Fútbol](https://techcup-eci.github.io/)**
+Platform to centralize and manage information for my university's football tournaments — organizing teams, schedules, and results in one place.
 
-Open to collaborate on new projects!
+---
+
+### 🎯 Currently
+
+- 🔍 Strengthening problem-solving with **data structures & algorithms**
+- 🌐 Deepening REST API design and best practices
+- 🧩 Exploring clean code principles and real-world dev workflows
+- 💼 Open to **internship opportunities** and collaborative projects
+
+---
+
+<p align="center">
+  <i>Open to collaborating on new projects — let's connect! 🚀</i>
+</p>
